@@ -158,7 +158,7 @@ These metrics indicate that the model performs well in predicting the export val
    
    •	Validation Split: A validation split of 20% was used to monitor model performance on unseen data, aiding in early stopping to prevent overfitting.
 
-###Actual vs Predicted Values
+### Actual vs Predicted Values
 
 The graph below shows the comparison of actual export values against the predicted values. The close alignment of these values further supports the model’s predictive capability.
 
