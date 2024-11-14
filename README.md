@@ -162,6 +162,10 @@ These metrics indicate that the model performs well in predicting the export val
 
 The graph below shows the comparison of actual export values against the predicted values. The close alignment of these values further supports the model’s predictive capability.
 
+Here is the graph showing the actual vs predicted export values:
+
+![Actual vs Predicted](result/actual_vs_predicted.png)
+
 
 
 
