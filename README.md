@@ -29,29 +29,29 @@ distinct category of variables relevant to food and agriculture.
 The dataset is sourced from the FAOSTAT database and covers the following categories:
 
 1.	Consumer Price Indicators
-2.	
+   
 3.	Crops Production Indicators
-4.	
+   
 5.	Emissions
-6.	
+   
 7.	Employment
-8.	
+   
 9.	Exchange Rate
-10.	
+    
 11.	Fertilizers Use
-12.	
+    
 13.	Food Balances
-14.	
+    
 15.	Food Security Indicators
-16.	
+    
 17.	Food Trade Indicators
-18.	
+    
 19.	Foreign Direct Investment (FDI)
-20.	
+    
 21.	Land Temperature Change
-22.	
+    
 23.	Land Use
-24.	
+  
 25.	Pesticides Use
 
 
