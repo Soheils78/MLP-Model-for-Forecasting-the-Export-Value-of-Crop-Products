@@ -13,10 +13,10 @@ a Multilayer Perceptron (MLP) model using this data to provide accurate export v
 
 ### Key Features
 
-•	**Algorithm**: Multilayer Perceptron (MLP)
-•	**Task**: Regression (Time-Series Forecasting)
-•	**Dataset**: 13 CSV files covering various indicators related to agriculture and food production
-•	**Objective**: Forecast export values for three years into the future
+	•	**Algorithm**: Multilayer Perceptron (MLP)
+	•	**Task**: Regression (Time-Series Forecasting)
+	•	**Dataset**: 13 CSV files covering various indicators related to agriculture and food production
+	•	**Objective**: Forecast export values for three years into the future
 
 
 ## Dataset
