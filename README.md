@@ -28,19 +28,31 @@ The dataset used in this project are 13 CSV files, each representing a
 distinct category of variables relevant to food and agriculture. 
 The dataset is sourced from the FAOSTAT database and covers the following categories:
 
-  1.	Consumer Price Indicators
-	2.	Crops Production Indicators
-	3.	Emissions
-	4.	Employment
-	5.	Exchange Rate
-	6.	Fertilizers Use
-	7.	Food Balances
-	8.	Food Security Indicators
-	9.	Food Trade Indicators
-	10.	Foreign Direct Investment (FDI)
-	11.	Land Temperature Change
-	12.	Land Use
-	13.	Pesticides Use
+1.	Consumer Price Indicators
+2.	
+3.	Crops Production Indicators
+4.	
+5.	Emissions
+6.	
+7.	Employment
+8.	
+9.	Exchange Rate
+10.	
+11.	Fertilizers Use
+12.	
+13.	Food Balances
+14.	
+15.	Food Security Indicators
+16.	
+17.	Food Trade Indicators
+18.	
+19.	Foreign Direct Investment (FDI)
+20.	
+21.	Land Temperature Change
+22.	
+23.	Land Use
+24.	
+25.	Pesticides Use
 
 
 ## Data Structure
