@@ -167,6 +167,10 @@ Here is the graph showing the actual vs predicted export values:
 ![Actual vs Predicted](result/actual_vs_predicted.png)
 
 
+## Author
+
+This project was developed by **Soheil Salemi** as part of the Machine Learning coursework for the Master’s course in Artificial Intelligence and Adaptive Systems at the University of Sussex.
+
 
 
 
