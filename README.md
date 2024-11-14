@@ -166,6 +166,12 @@ Here is the graph showing the actual vs predicted export values:
 
 ![Actual vs Predicted](result/actual_vs_predicted.png)
 
+## References
+
+The dataset used in this project is sourced from the **FAOSTAT** database, which provides open access to a vast collection of food and agricultural data for over 245 countries and territories. The data spans from the mid-1990s to the present day, covering a wide range of indicators related to food production, trade, and environmental factors.
+
+- FAOSTAT Database: [https://www.fao.org/faostat/en/#home](https://www.fao.org/faostat/en/#home)
+
 
 ## Author
 
